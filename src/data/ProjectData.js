@@ -6,30 +6,32 @@ export const ProjectList = [
     description: "Web application to enable consumers to purchase clothing and fashion items based on the Nordstrom.com model.",
     tech_stack: "HTML, CSS, JavaScript",
     github_url: "https://github.com/neerajmasai/nordstrom_clone",
+    demo_url: "https://nordstrom-clone-bay.vercel.app/",
   },
   {
     img: "https://user-images.githubusercontent.com/86434697/136775840-279b1343-0445-4731-973f-e2e4731d1b8b.PNG",
     title: "Clone of Nordstrom.com-v2",
-    description:
-      "Web application to enable consumers to purchase clothing and fashion items based on the Nordstrom.com model.",
+    description:"Web application to enable consumers to purchase clothing and fashion items based on the Nordstrom.com model.",
     tech_stack: "HTML, CSS, JavaScript, Express, MongoDB",
     github_url: "https://github.com/neerajmasai/nordstrom-website-clone",
+    demo_url: "https://nordstrom-clone-bay.vercel.app/",
   },
-    {
-    img: "https://user-images.githubusercontent.com/86434697/136776211-da9d1f51-03ef-4850-8335-ab7b07fc3257.jpeg",
-    title: "Clone of Easemytrip.com",
-    description:
-      "Web application to enable consumers to book flights, train and bus tickets or book rooms in hotels based on the Easemytrip.com model.",
-    tech_stack: "ReactJs, HTML, CSS, Express, MongoDB",
-    github_url: "https://github.com/Rabia-Basari777/easemytrip-clone",
-  },
-  {
-    img: "https://user-images.githubusercontent.com/86434697/136776703-cb3f4277-7e42-4a48-bef2-f60ed2493185.PNG",
-    title: "Portfolio",
-    description: "Made my own portfolio using ReactJs.",
-    tech_stack: "ReactJs, HTML, Css",
-    github_url: "",
-  },
+  //   {
+  //   img: "https://user-images.githubusercontent.com/86434697/136776211-da9d1f51-03ef-4850-8335-ab7b07fc3257.jpeg",
+  //   title: "Clone of Easemytrip.com",
+  //   description:"Web application to enable consumers to book flights, train and bus tickets or book rooms in hotels based on the Easemytrip.com model.",
+  //   tech_stack: "ReactJs, HTML, CSS, Express, MongoDB",
+  //   github_url: "https://github.com/Rabia-Basari777/easemytrip-clone",
+  //   demo_url: "",
+  // },
+  // {
+  //   img: "https://user-images.githubusercontent.com/86434697/136776703-cb3f4277-7e42-4a48-bef2-f60ed2493185.PNG",
+  //   title: "Portfolio",
+  //   description: "Made my own portfolio using ReactJs.",
+  //   tech_stack: "ReactJs, HTML, Css",
+  //   github_url: "https://github.com/SumitKumar1001/Portfolio",
+  //   demo_url: "",
+  // },
 ];
 
 // --------------------------------------- Skills
